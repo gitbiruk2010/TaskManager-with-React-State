@@ -11,7 +11,7 @@ Follow these steps to set up and run the Task Manager application:
 1. **Clone the Repository:**
    Clone the repository to your local machine using the following command:
 
-   git clone >
+   git clone https://github.com/gitbiruk2010/TaskManager-with-React-State
    
 Install Dependencies:
 Navigate to the project directory and install the necessary dependencies using npm or yarn:
